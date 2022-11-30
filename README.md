@@ -2,22 +2,22 @@
 
 
 Gruppennamen: Zettelkasten
-Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad Shahir.Bashiri
+Mitglieder: Sathana Suganthasri, Nicola Luca Karrer, Brandon Spaqi und Mohammad Shahir Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |                                                   
-|19.10.2022| 2.0.0   |Wir haben uns über Zettelkasten informiert.|
-|26.10.2022| 2.0.0   |Wir haben uns über programmieren mit HTML informiert.|
-|02.11.2022| 3.0.0   |Wir haben die Planung erstellt und Aufträge verteilt.|
-|02.11.2022| 3.0.1   |angefangen mit Programmieren.|
-|09.11.2022| 4.0.0   |PAP fertig erstellt.|
-|09.11.2022| 4.0.1   |Design-mockup erstellt.|
-|09.11.2022| 4.0.2   |Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
-|09.11.2022| 4.0.3   |Wir haben uns entschieden statt ein Website zu erstellen, in einem normales Programm zu erstellen. |
-| 16.11.2022 | 5.0.0 | Suchoption Erfolgreich programmiert. |
-| 23.11.2022 | 6.0.0 | FileUpload Erfolgreich programmiert | 
-| 30.11.2022 | 7.0.0 | Programmieren abgeschlossen | 
-| 30.11.2022 | 8.0.0 | projektdokumentation fertig erstelltn | 
+| 19.10.2022 | 2.0.0   | Wir haben uns über Zettelkasten informiert.|
+| 26.10.2022 | 2.0.0   | Wir haben uns über programmieren mit HTML informiert.|
+| 02.11.2022 | 3.0.0   | Wir haben die Planung erstellt und Aufträge verteilt.|
+| 02.11.2022 | 3.0.1   | angefangen mit Programmieren.|
+| 09.11.2022 | 4.0.0   | PAP fertig erstellt.|
+| 09.11.2022 | 4.0.1   | Design-mockup erstellt.|
+| 09.11.2022 | 4.0.2   | Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
+| 09.11.2022 | 4.0.3   | Wir haben uns entschieden statt ein Website zu erstellen, in einem normales Programm zu erstellen. |
+| 16.11.2022 | 5.0.0   | Suchoption Erfolgreich programmiert. |
+| 23.11.2022 | 6.0.0   | FileUpload Erfolgreich programmiert | 
+| 30.11.2022 | 7.0.0   | Programmieren abgeschlossen | 
+| 30.11.2022 | 8.0.0   | projektdokumentation fertig erstelltn | 
 
 ## 1 Informieren
 Ordner Suchen: Man hat verschiedene Text-Dateien in verschiedenen Ordner. Man kann nach diesen Dateien individuell die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
@@ -153,28 +153,21 @@ Total: 620 Minuten
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1 |   x.10    |  x        |   Mohammad     |
-| 2  |      x.10 |  x        |   Mohammad     |
-| 3  |  x.10     |   x       |   Mohammad     |
-| 4  | x.10      |    x      |        Mohammad|
-| 5  |   x.10   |      x    |        Mohammad|
-| 6  | x.10      |      x    |        Mohammad|
-| 7  |  x.10     |      x    |        Mohammad|
-
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+| TC-№ | Datum | Resultat | Überprüfer |
+| ---- | ----- | -------- | ---------- |
+| 1    | 30.11 | Fertig   | Mohammad   |
+| 2    | 30.11 | Fertig   | Mohammad   |
+| 3    | 30.11 | Fertig   | Mohammad   |
+| 4    | 30.11 | Fertig   | Mohammad   |
+| 5    | 30.11 | Fertig   | Mohammad   |
+| 6    | 30.11 | Fertig   | Mohammad   |
+| 7    | 30.11 | Fertig   | Mohammad   |
+| 8    | 30.11 | Fertig   | Mohammad   |
+| 9    | 30.11 | Fertig   | Mohammad   |
+| 10   | 30.11 | Fertig   | Mohammad   |
+| 11   | 30.11 | Fertig   | Mohammad   |
+| 12   | 30.11 | Fertig   | Mohammad   |
+| 13   | 30.11 | Fertig   | Mohammad   |
+| 14   | 30.11 | Fertig   | Mohammad   |
+| 15   | 30.11 | Fertig   | Mohammad   |
+| 16   | 30.11 | Fertig   | Mohammad   |
